@@ -1,0 +1,27 @@
+# Core Libraries
+torch==2.5.1+cu121
+torchvision==0.20.1+cu121
+pandas==2.2.2
+numpy==1.26.4
+tqdm==4.67.1
+matplotlib==3.8.0
+scikit-learn==1.6.0
+
+# Additional Libraries
+Pillow==11.0.0  # PIL is part of the Pillow package
+google-colab==0.0.1a2
+
+# Special Installation
+streamlit  # Install with: pip install streamlit
+wikipedia-api  # Install with: pip install wikipedia-api
+clip @ git+https://github.com/openai/CLIP.git
+
+# Built-in Libraries (No need to install)
+# os
+# json
+# time
+# tarfile
+# glob
+# random
+# csv
+# traceback

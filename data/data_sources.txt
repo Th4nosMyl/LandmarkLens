@@ -1,0 +1,19 @@
+### Πηγές Δεδομένων για το Google Landmark Recognition Dataset
+
+Τα δεδομένα που χρησιμοποιούνται σε αυτό το project προέρχονται από το **Google Landmark Recognition Dataset**. Λόγω του μεγάλου μεγέθους των δεδομένων, δεν περιλαμβάνουμε τα raw αρχεία σε αυτό το repository. Αν θέλετε να αποκτήσετε πρόσβαση στο dataset, μπορείτε να το βρείτε στον παρακάτω σύνδεσμο:
+
+- **Google Landmark Dataset Repository**: [https://github.com/cvdfoundation/google-landmark](https://github.com/cvdfoundation/google-landmark)
+
+---
+
+### Οδηγίες Πρόσβασης στο Dataset
+1. Επισκεφθείτε το GitHub repository στον παραπάνω σύνδεσμο.
+2. Ακολουθήστε τις οδηγίες που παρέχονται στο repository για να κατεβάσετε το dataset:
+   - **Google Landmark v2 Dataset** (ολόκληρο το dataset ή ένα υποσύνολο, ανάλογα με τις ανάγκες σας).
+   - Τα metadata αρχεία για το training και το testing.
+
+---
+
+### Σημειώσεις
+- Αυτό το project χρησιμοποιεί ένα υποσύνολο του πλήρους dataset για πρακτικούς λόγους. Μπορείτε να επιλέξετε να χρησιμοποιήσετε το πλήρες dataset, ανάλογα με τους διαθέσιμους πόρους σας.
+- Βεβαιωθείτε ότι διαθέτετε αρκετό αποθηκευτικό χώρο και επεξεργαστική ισχύ πριν κατεβάσετε και χρησιμοποιήσετε το dataset.

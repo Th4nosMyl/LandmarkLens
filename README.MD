@@ -1,7 +1,6 @@
 # Landmark Recognition Project
 
 > Μια **προσαρμοσμένη εφαρμογή** αναγνώρισης μνημείων (landmarks) βασισμένη στο CLIP μοντέλο της OpenAI, σε συνδυασμό με ένα Linear Classifier.  
-> **Live Demo**: [Πατήστε εδώ για να δοκιμάσετε την εφαρμογή](https://share.streamlit.io/Th4nosMyl/LandmarkLens/app.py) *(Streamlit Cloud link)*
 
 ---
 
@@ -82,17 +81,7 @@
 
 ---
 
-## Οδηγίες Χρήσης (Local ή Cloud)
-
-### 1. Streamlit Cloud (Live Demo)
-
-Πατήστε εδώ:  
-[**Live Demo**](https://share.streamlit.io/Th4nosMyl/LandmarkLens/app.py)  
-- Επιλέξτε **Upload** ή **Camera**.  
-- Δώστε μια εικόνα ή βγάλτε φωτογραφία.  
-- Δείτε τις top-5 προβλέψεις, τις πιθανότητες και (προαιρετικά) μια σύντομη wiki summary.
-
-### 2. Τοπική Εκτέλεση
+## Οδηγίες Χρήσης 
 
 1. **Clone** ή **Download** το repository:
 
@@ -116,6 +105,10 @@
    ```
 
 5. Ανοίξτε το browser (συνήθως http://localhost:8501) για να δείτε την εφαρμογή.
+
+- Επιλέξτε **Upload** ή **Camera**.  
+- Δώστε μια εικόνα ή βγάλτε φωτογραφία.  
+- Δείτε τις top-5 προβλέψεις, τις πιθανότητες και (προαιρετικά) μια σύντομη wiki summary.
 
 ---
 
